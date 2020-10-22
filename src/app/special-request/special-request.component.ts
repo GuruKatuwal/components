@@ -15,9 +15,6 @@ export class SpecialRequestComponent implements OnInit {
 public foo = "";
 public foo2 = "";
   getspecialRequest = () => {
-
     this.foo2 = this.foo;
-
-
   }
 }
